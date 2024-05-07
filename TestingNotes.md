@@ -10,5 +10,6 @@
 [2024-05-07 20:18:41.895 [INF] SYNC: New valid peer 127.0.0.1:63667 (inbound) (AnkurHandshakerV1.0)]"
 ```
 
+![alt text](image.png)
 
-![alt text](image-1.png)
+![alt text](image-2.png)
